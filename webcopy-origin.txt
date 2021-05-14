@@ -1,0 +1,140 @@
+Uri: https://coffe-a5e867.webflow.io/
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/css/coffe-a5e867.webflow.9cae6b972.css
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\css\coffe-a5e867.webflow.9cae6b972.css
+Content Type: text/css
+
+Uri: https://uploads-ssl.webflow.com/img/favicon.ico
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://uploads-ssl.webflow.com/img/webclip.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\img\webclip.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76621d414cc0929e2d3b6_h1-slider-img-1.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76621d414cc0929e2d3b6_h1-slider-img-1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da766240c624f99d1311c6c_slider-separator-img.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da766240c624f99d1311c6c_slider-separator-img.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da766255118dbc0ee35eb22_title-separator.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da766255118dbc0ee35eb22_title-separator.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76622b82ae1dedacfd6c6_h2-custom-icon-5.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76622b82ae1dedacfd6c6_h2-custom-icon-5.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da766225118db768e35ead8_h2-custom-icon-6.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da766225118db768e35ead8_h2-custom-icon-6.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76623b82ae165c1cfd6c7_h2-custom-icon-7.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76623b82ae165c1cfd6c7_h2-custom-icon-7.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da766225118dba0f435ead9_h2-custom-icon-8.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da766225118dba0f435ead9_h2-custom-icon-8.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76621590b0dc9a6dad039_h1-single-img-1-250x226.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76621590b0dc9a6dad039_h1-single-img-1-250x226.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76623590b0de7d4dad03e_logo-light.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76623590b0de7d4dad03e_logo-light.png
+Content Type: image/png
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5da765da5118db650635e7f6
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/js/webflow.b00340a5f.js
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\js\webflow.b00340a5f.js
+Content Type: text/javascript
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da766230c624f618e311c67_home-1-slider-image-1.jpg
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da766230c624f618e311c67_home-1-slider-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76623b82ae1c67dcfd6c8_home-1-slider-image-2.jpg
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76623b82ae1c67dcfd6c8_home-1-slider-image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76624fc38a85bf973cff1_home-1-slider-image-3.jpg
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76624fc38a85bf973cff1_home-1-slider-image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da766215118db77cb35ea5b_h1-bacground-img-1.jpg
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da766215118db77cb35ea5b_h1-bacground-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76621590b0d9821dad03a_h1-bacground-img-2.jpg
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76621590b0d9821dad03a_h1-bacground-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da766200c624ff733311c62_blog-1-img-2.jpg
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da766200c624ff733311c62_blog-1-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da7662090bd0224a83fd72d_blog-1-img-1.jpg
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da7662090bd0224a83fd72d_blog-1-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76620b82ae10acecfd6c4_blog-1-img-3.jpg
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76620b82ae10acecfd6c4_blog-1-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da766295118db70f035eb25_product-img-3-800x800.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da766295118db70f035eb25_product-img-3-800x800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da7662a0c624f2126311c77_product-img-5-800x800.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da7662a0c624f2126311c77_product-img-5-800x800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76627d414cc6917e2d3c3_product-img-1-800x800.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76627d414cc6917e2d3c3_product-img-1-800x800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76629d414ccb597e2d3c6_product-img-8-800x800.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76629d414ccb597e2d3c6_product-img-8-800x800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76620b82ae1b64fcfd6c5_clients-img-3-hover.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76620b82ae1b64fcfd6c5_clients-img-3-hover.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76620590b0d6a1cdad02c_clients-img-5-hover.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76620590b0d6a1cdad02c_clients-img-5-hover.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76620d414cc201fe2d3b5_clients-img-6-hover.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76620d414cc201fe2d3b5_clients-img-6-hover.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76621590b0d5ca5dad02d_clients-img-4-hover.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76621590b0d5ca5dad02d_clients-img-4-hover.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da766210c624fee00311c66_clients-img-2-hover.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da766210c624fee00311c66_clients-img-2-hover.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da76620fc38a80bb273cfe8_clients-img-1.png
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da76620fc38a80bb273cfe8_clients-img-1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5da765da5118db650635e7f6/5da766215118dbd05535e9ea_footer-top-img-1.jpg
+File Name: C:\Users\38068\Desktop\coffe-a5e867.webflow.io\5da765da5118db650635e7f6\5da766215118dbd05535e9ea_footer-top-img-1.jpg
+Content Type: image/jpeg
+
